@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "burnished-craft-243323",
+  "private_key_id": "129b50c3f1a2ec5595da8902fef71d4ff765c439",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCqdpBSSwBmCXDJ\nil2hpTs86u1hSMCAn1UXU2WB7vsAWh4cb40ipwAi0S1nyZO5TEgttXoZYBsYphdq\n/IfS5wvcF5OZ9xix9Y6TD08d9ngiMkOHpK3+jWv/iMqJ39jh2CIZelS16ZD+lxQY\nwfexccqOVPnje1a7+YQk4mmGUt+/OPsdkY1CfvXZMn3HhsXS/Kb88RlzKUIvpr3y\nvGAA8aAofDpBNr1QLNZJ4qvUgFCqz5xzhqVm63QSJUXwAlNESWaLh43myRRC8Pwe\nY/vDxE4/VZlRsEREn8ZplErV9+8qcpLBsk2di/bnIGoBs3sZaHjWJv6sBv2creGP\n0j512DAfAgMBAAECggEABV6ryDPdpNk6SNcHgQ6T8aTS6oQgsEyUoSH66h9tn8K2\n/R1UfFl3ayFcxU63zRgGlA4J9R+uatXcmf2vh6jImlvRxgFfMUfzgFV0oBSCD023\nC+BXrNOmqcuU2cgH7IFi/Zt5bKuZajO3Kdp+Y4QapeYuYwihIFXJYGITgew9aSgk\npDdI76sGSLGFpa1UG/rDauVYeKhkWFItCv9qb/5Zv5pVCdISQt8HeU5uTIAdk048\nd1wu+z3jkf9ZS2udN3EdmdvgnaizPIQ+EkZZzvQlfId6cLN5ZASy3gja7LJcf6pa\nURCBX140WjANKfLRMRze9vLQcnH72tOKG76Rggn1kQKBgQDl4dCPJ1XnwQFpwWT0\nyUQNdVHOfa7Hx62j77IdwwMs9GzgMjvptuU5n9voRakIGgwGHMWFyPSxBQ/Yo30Y\nxFHeaobKLKqTu8WoqJ3pT1YitsYlcMpMIPaJUUxzvPm0pe0fdyg5k3s0/ONXoCK1\nhcfmvHVAsNoI7JhizT8k32a1DwKBgQC91Ig+SE01ENZ0CbsrlR0tYZVTwzaGeEbO\nGgwgdoCOHgowMHJKlbWumkpE9iT17bnhqFQVlQ1KmScfdHXF/nf9zxpftzpabs5A\nnBmDsSJpsrmd5IFE5ZZnmSbsS5ytdpbvzGP0rsqLrY1RnyJkvZgBSiTj1M5OTVSO\nyHFXJA5z8QKBgD6EZfK4kN1BGQBIzwrfPXmngUL13TWJsUhXJIqBgXiVVJK4NqD9\n02MTfXuyjiCc7M4wvur+VsVZihCxjZDRuy4QrG2JLi6VL1EJ4kAUCmnQaRy/itSf\nVkzL5k3Hg+VEBrO69R6LZENpzu4Cp83T/yRZ9k1Mi09IAL1F8jk15DmzAoGAK9VQ\npHkTguZhbqf0lUq4UwtObOoNxB0v1FWFaVWTt71OAvSc34YUTr4H2kawIC2Fl4rD\n57vkNs6IjyXYMCDjWjMhVuq7Sbh+XcLtzU/wr1F6tO/Xva35/fAKYdPP2OoiTjr2\n9cAKuxgXIrrJOVPiLqINRKKWBNSsas/0A/gqcjECgYAGdoysokYTvJHYhQgjAFtX\n/LaFM8JjBo+V8UcRxGFpS2UO2A4gEG+ZPenNeHdVyvhKjXXMYkV23uCX9AI9NH1L\nssnO7oHUrYbNq/enRwt5eK8DWvZnOAGxrRY1Dz7PMSWjHgzOPEK12zYvvgp64qZ8\niN6jlqOKsclzk5q5sNgm6g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "coffeeshop@burnished-craft-243323.iam.gserviceaccount.com",
+  "client_id": "105932546531409346913",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/coffeeshop%40burnished-craft-243323.iam.gserviceaccount.com"
+}

@@ -1,0 +1,78 @@
+body {
+    background: #fafafa;
+    color: #333333;
+    margin-top: 5rem;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #444444;
+  }
+
+  ul {
+    margin: 0;
+  }
+
+  .bg-steel {
+    background-color: #5f788a;
+  }
+
+  .bg-lightblue {
+    background-color: #beddf4;
+  }
+
+  .bg-lightgreen{
+    background-color: #c7e8c8;
+  }
+
+  .btn-steel{
+    background-color: #5f788a;
+  }
+  .site-header .navbar-nav .nav-link {
+    color: #D16631;
+  }
+
+  .site-header .navbar-nav .nav-link:hover {
+    color: #ffffff;
+  }
+
+  .site-header .navbar-nav .nav-link.active {
+    font-weight: 500;
+  }
+
+  .profile-content-section {
+    background: #ffffff;
+    padding: 10px 20px;
+    border: 1px solid #dddddd;
+    border-radius: 3px;
+    margin-bottom: 20px;
+  }
+  .badge-notify{
+    background:red;
+    position:relative;
+    top: -20px;
+    left: 0px;
+   }
+  .image-container {
+    margin: 8px;
+    position:relative;
+  }
+  .image-container .content {
+    position: absolute;
+    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 5px;
+  }
+
+  .account-img {
+    height: 125px;
+    width: 125px;
+    margin-right: 50px;
+    margin-bottom: 16px;
+  }
+
+  .account-heading {
+    font-size: 1.5rem;
+  }

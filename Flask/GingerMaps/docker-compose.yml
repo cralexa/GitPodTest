@@ -1,0 +1,11 @@
+version: '3'
+services:
+  app:
+    image: gingermaps_app:latest
+    build: .
+    ports:
+      - "5000:5000"
+    #volumes:
+    #  - app-sync:./app
+    environment:
+      FLASK_ENV: development

@@ -1,0 +1,9 @@
+version: '2'
+options:
+  verbose: true
+syncs:
+
+  app-sync:
+    src: './src/web'
+    sync_host_ip: 'auto'
+    sync_stategy: 'native_osx'
